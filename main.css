@@ -1,0 +1,23 @@
+* {
+   font-size: 30px;
+}
+
+h1 {
+    color: red;
+}
+p {
+    color: rgb(195, 195, 231);
+}  
+
+li {
+    color: rgb(235, 110, 110);
+}
+.unique {
+    color: rgb(110, 235, 110);
+}
+#bang {
+    color: rgb(110, 110, 235);
+}
+ul li {
+    color: rgb(110, 235, 235);
+}
